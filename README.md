@@ -1,21 +1,28 @@
 # MODNAME
 This node provides ...
 
-## Node Configuration
-Environment variables can be set to alter functionality.
-
-| name | required | description |
-|-|-|-|
-
-## Context Properities
-The following context properties are available for this node.
-| name | required | description |
-|-|-|-|
-
-## Node1
-This node does the following
+## node1
 
 ### Parameters
 The following parameters are available.
 | name | required | description |
 |-|-|-|
+
+
+### Context Properities
+The following context properties are required for this node.
+| name | required | description |
+|-|-|-|
+
+### Example Input
+```json
+{
+}
+
+```
+
+### Example Output
+```json
+{
+}
+```
